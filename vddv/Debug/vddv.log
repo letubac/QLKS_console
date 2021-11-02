@@ -1,0 +1,97 @@
+﻿  Main.cpp
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\DoHoa.h(42,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\DoHoa.h(42,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\DoHoa.h(129,24): warning C4018: '>': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(131,13): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(132,15): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(133,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(134,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(135,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(136,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(195,13): warning C4309: '=': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(196,13): warning C4309: '=': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(197,13): warning C4309: '=': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(198,13): warning C4309: '=': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(199,10): warning C4309: '=': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(200,8): warning C4309: '=': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(461,25): warning C4018: '<=': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(550,20): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(551,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(552,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(553,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(554,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(555,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(556,20): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(557,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(558,20): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(559,18): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(560,17): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(561,17): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\graph.h(562,15): warning C4309: 'initializing': truncation of constant value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(97,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(106,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(114,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(359,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(389,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(419,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(439,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(460,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(481,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(774,5): warning C4552: '+': result of expression not used
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(908,22): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(923,26): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(937,25): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(1676,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(1706,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(1727,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(1758,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(1778,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(1788,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(1798,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3092,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3108,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3153,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3632,22): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3647,26): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3660,25): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4310,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4335,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4652,21): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4687,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4720,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4772,21): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4790,21): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(5417,10): warning C4018: '>': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(5438,10): warning C4018: '>': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(5480,21): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(5555,21): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(5573,21): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(5591,21): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(6316,22): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(6345,26): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(6372,25): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(6335,40): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(6359,40): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(6705,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7344,22): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7366,26): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7390,25): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7611,20): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7635,21): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7689,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7685,9): warning C4101: 'ldv': unreferenced local variable
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7826,9): warning C4101: 'l': unreferenced local variable
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7861,9): warning C4101: 'lhd': unreferenced local variable
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(8159,22): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(8187,26): warning C4018: '<': signed/unsigned mismatch
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(8214,25): warning C4018: '<': signed/unsigned mismatch
+  user.cpp
+  Generating Code...
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3103): warning C4715: 'KT_Ten_Phong': not all control paths return a value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3176): warning C4715: 'KT_CuPhapMaPhong': not all control paths return a value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(3119): warning C4715: 'KT_Gia_Phong': not all control paths return a value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4321): warning C4715: 'KT_SoGiuongDoi': not all control paths return a value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(4346): warning C4715: 'KT_SoGiuongDon': not all control paths return a value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(6721): warning C4715: 'kiemtragia': not all control paths return a value
+D:\cấu trúc dữ liệu giải thuật\QLKS\vddv\XulyDeTai.h(7627): warning C4715: 'kiemtrasotientratruoc': not all control paths return a value
+  vddv.vcxproj -> D:\cấu trúc dữ liệu giải thuật\QLKS\Debug\vddv.exe

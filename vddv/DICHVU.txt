@@ -1,0 +1,4 @@
+hdas, phe, 100
+dsa, can, 200
+dsa, phe, 300
+oo, gu, 645
